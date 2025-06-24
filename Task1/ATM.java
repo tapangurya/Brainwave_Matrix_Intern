@@ -1,6 +1,5 @@
-
+package Task1;
 import java.util.Scanner;
-
 public class ATM {
     private static Scanner scanner = new Scanner(System.in);
     private static Account currentAccount;
